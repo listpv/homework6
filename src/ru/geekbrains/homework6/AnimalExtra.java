@@ -5,9 +5,9 @@ public class AnimalExtra
     protected String name;
     protected String color;
     protected int age;
-    float jumpHeight;
-    int runLength;
-    int swimLength;
+    protected float jumpHeight;
+    protected int runLength;
+    protected int swimLength;
 
     AnimalExtra(String name, String color, int age)
     {
